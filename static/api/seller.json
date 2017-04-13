@@ -1,19 +1,5 @@
 {
   "tabName": [
-   {
-      "name":"css",
-      "className": "cssList",
-      "list": [
-        {
-          "name": "flex布局",
-          "to": "/flex"
-        },
-        {
-          "name": "box-sizing",
-          "to": "/boxsizing"
-        }
-      ]
-    },
     {
       "name":"javascript",
       "className": "jsList",
@@ -49,6 +35,20 @@
         {
           "name": "this",
           "to": "/this"
+        }
+      ]
+    },
+    {
+      "name":"css",
+      "className": "cssList",
+      "list": [
+        {
+          "name": "flex布局",
+          "to": "/flex"
+        },
+        {
+          "name": "box-sizing",
+          "to": "/boxsizing"
         }
       ]
     },
