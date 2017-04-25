@@ -15,13 +15,11 @@
             {
               "name": "函数和对象的关系",
               "to": "/prototypeClosure2"
-            }
-          ]
-        },
-        {
-          "name": "执行上下文",
-          "to": "",
-          "listDetail":[
+            },
+            {
+              "name": "prototype原型",
+              "to": "/prototypeClosure3"
+            },
             {
               "name": "执行上下文(上)",
               "to": "/zxsxw1"
@@ -29,12 +27,12 @@
             {
               "name": "执行上下文(下)",
               "to": "/zxsxw2"
+            },
+            {
+              "name": "this",
+              "to": "/this"
             }
           ]
-        },
-        {
-          "name": "this",
-          "to": "/this"
         }
       ]
     },
